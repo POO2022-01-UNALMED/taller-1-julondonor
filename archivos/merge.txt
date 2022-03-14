@@ -1,0 +1,1 @@
+Esta vez si fue posible crear un commit ya que la carpeta no se encontraba vacía, y de esta manera, git lo reconocía como un cambio en el proyecto. Tras realizar el commit se pudo hacer el Push para subir la carpeta.
