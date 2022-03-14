@@ -4,3 +4,8 @@ Aspiraciones con la materia:
 Espero poder aprender sobre el lenguaje de programación Java, y el paradigma de programación orientada a objetos, 
 aplicando estos conocimientos en los proyectos propuestos para la materia.
 También me emociona poder trabajar en equipo, usando git y Github como sistema de control de versiones.
+Esta vez si fue posible crear un commit ya que la carpeta no se encontraba vacía, y de esta manera, git lo reconocía como un cambio en el proyecto. Tras realizar el commit se pudo hacer el Push para subir la carpeta.
+
+Cuando se modifican dos archivos al mismo tiempo, se pueden generar problemas ya que si 
+su contenido es diferente, git no va a saber cuál versión debería dejar y tendremos que 
+solucionar el conflicto manualmente en un editor de código.
