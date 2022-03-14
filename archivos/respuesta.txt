@@ -1,0 +1,1 @@
+Ocurrió un problema en el punto anterior, ya que Github desktop no reconoce la creación de un directorio vacío como un cambio en el proyecto.
